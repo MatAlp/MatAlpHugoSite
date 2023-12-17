@@ -36,7 +36,7 @@ defaultBackgroundImage = "img/sea.jpeg" # used as default for background images
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/sea.jpeg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
