@@ -9,6 +9,8 @@ layout = 'simple'
 ## My Practice
 I practice daily in the lineage of Tirumalai Krishnamacharya and TKV Desikachar.
 
+I have discovered
+
 ## Farewell Robin
 
 _[Farewell, Robin.](/farewell-robin)_  
